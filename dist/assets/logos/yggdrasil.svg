@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" fill="none">
-    <g transform="translate(12, 10)">
-      <circle cx="19" cy="19" r="18" fill="#120D1D" stroke="#E5A823" stroke-width="2"/>
-      <path d="M19 10 V28 M12 17 L19 22 L26 17 M14 24 L19 28 L24 24" stroke="#E5A823" stroke-width="2" stroke-linecap="round"/>
-    </g>
-    <text x="58" y="33" font-family="'Kanit', sans-serif" font-weight="900" font-size="16" fill="#FFFFFF" letter-spacing="2">YGGDRASIL</text>
-    <text x="59" y="45" font-family="'Kanit', sans-serif" font-weight="600" font-size="8.5" fill="#E5A823" letter-spacing="2.5">GAMING INNOVATION</text>
-  </svg>

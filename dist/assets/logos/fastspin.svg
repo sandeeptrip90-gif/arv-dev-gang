@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" fill="none">
-    <g transform="translate(12, 10)">
-      <rect x="0" y="0" width="38" height="38" rx="8" fill="#00BCD4"/>
-      <path d="M12 20 L26 12 L22 20 L28 28 Z" fill="#FFFFFF"/>
-    </g>
-    <text x="58" y="34" font-family="'Kanit', sans-serif" font-weight="900" font-size="20" fill="#FFFFFF" letter-spacing="1">FASTSPIN</text>
-    <text x="59" y="45" font-family="'Kanit', sans-serif" font-weight="700" font-size="8" fill="#00BCD4" letter-spacing="2.5">LIGHTNING SPEED</text>
-  </svg>

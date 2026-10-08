@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" fill="none">
-    <g transform="translate(12, 12)">
-      <rect x="0" y="0" width="36" height="36" rx="8" fill="#E50914"/>
-      <path d="M10 25 L26 12 L19 28 L15 22 Z" fill="#FFFFFF"/>
-    </g>
-    <text x="58" y="33" font-family="'Kanit', sans-serif" font-weight="900" font-size="20" fill="#FFFFFF" letter-spacing="2">SPRIBE</text>
-    <text x="59" y="45" font-family="'Kanit', sans-serif" font-weight="700" font-size="8.5" fill="#E50914" letter-spacing="3">CREATOR OF AVIATOR</text>
-  </svg>
