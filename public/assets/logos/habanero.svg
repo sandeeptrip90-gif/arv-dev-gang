@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" fill="none">
+    <g transform="translate(12, 10)">
+      <circle cx="19" cy="19" r="18" fill="#E65100"/>
+      <path d="M19 8 C22 14 26 19 23 26 C20 30 14 28 14 24 C14 18 19 8 19 8 Z" fill="#FFD54F"/>
+    </g>
+    <text x="58" y="33" font-family="'Kanit', sans-serif" font-weight="900" font-size="18" fill="#FFFFFF" letter-spacing="1.5">HABANERO</text>
+    <text x="59" y="45" font-family="'Kanit', sans-serif" font-weight="600" font-size="8.5" fill="#FFA726" letter-spacing="2.5">SHEER GAMING</text>
+  </svg>

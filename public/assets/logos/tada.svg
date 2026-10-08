@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" fill="none">
+    <defs>
+      <linearGradient id="tadaGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#00F0FF"/>
+        <stop offset="100%" stop-color="#BD00FF"/>
+      </linearGradient>
+    </defs>
+    <g transform="translate(12, 10)">
+      <rect x="0" y="0" width="38" height="38" rx="8" fill="#0C0A1C" stroke="url(#tadaGrad)" stroke-width="2"/>
+      <path d="M10 14 H28 M19 14 V30" stroke="#00F0FF" stroke-width="3.5" stroke-linecap="round"/>
+      <circle cx="28" cy="14" r="3" fill="#BD00FF"/>
+    </g>
+    <text x="58" y="37" font-family="'Kanit', sans-serif" font-weight="900" font-size="28" fill="url(#tadaGrad)" letter-spacing="2">TADA</text>
+    <text x="142" y="35" font-family="'Kanit', sans-serif" font-weight="700" font-size="9" fill="#FFFFFF" letter-spacing="2">GAMES</text>
+  </svg>

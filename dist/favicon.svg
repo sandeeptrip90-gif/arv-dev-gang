@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <defs>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FEF08A" />
+      <stop offset="50%" stop-color="#EAB308" />
+      <stop offset="100%" stop-color="#CA8A04" />
+    </linearGradient>
+    <linearGradient id="purpleGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#C084FC" />
+      <stop offset="100%" stop-color="#581C87" />
+    </linearGradient>
+  </defs>
+  <rect width="100" height="100" rx="24" fill="#07070D" />
+  <rect x="2" y="2" width="96" height="96" rx="22" stroke="url(#purpleGrad)" stroke-width="2" />
+  <!-- Stylized Geometric A & Crown Motif -->
+  <path d="M50 20 L75 75 L62 75 L50 48 L38 75 L25 75 Z" fill="url(#goldGrad)" />
+  <polygon points="50,32 58,48 42,48" fill="#07070D" />
+  <circle cx="50" cy="18" r="4" fill="#FEF08A" />
+  <circle cx="32" cy="28" r="3" fill="#EAB308" />
+  <circle cx="68" cy="28" r="3" fill="#EAB308" />
+</svg>

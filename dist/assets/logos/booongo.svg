@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" fill="none">
+    <g transform="translate(12, 10)">
+      <circle cx="19" cy="19" r="18" fill="#FF6D00"/>
+      <polygon points="19,10 23,24 12,17 26,17 15,24" fill="#FFFFFF"/>
+    </g>
+    <text x="58" y="34" font-family="'Kanit', sans-serif" font-weight="900" font-size="18" fill="#FFFFFF" letter-spacing="2">BOOONGO</text>
+    <text x="59" y="45" font-family="'Kanit', sans-serif" font-weight="600" font-size="8" fill="#FFA726" letter-spacing="2">HOLD AND WIN</text>
+  </svg>
